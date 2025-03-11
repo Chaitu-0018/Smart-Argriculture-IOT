@@ -18,7 +18,7 @@ This project is a **Smart Agriculture IoT Monitoring System** using an **ESP32**
 ## 🛠️ Setup Instructions  
 
 ### Step 1: Connect the Sensors  
-Follow the block diagram to wire the **ESP32** with:  
+Follow the block diagram to wire the **ESP32** with: "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
 - **DHT11** → Data pin to ESP32 GPIO  
 - **Soil Moisture Sensor** → Analog pin to ESP32 GPIO  
 
