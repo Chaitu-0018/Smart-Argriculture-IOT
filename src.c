@@ -20,7 +20,7 @@ WiFiClient client;
 // Weather API Configuration
 const char server[] = "api.openweathermap.org";
 String nameOfCity = "Chennai,IN";
-String apiKey = "09f88896a6ee88c86a7a9d1a7512c224";
+String apiKey = "xxx";// keep your api key in this
 String text;
 const char* icon = "";
 
